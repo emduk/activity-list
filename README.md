@@ -1,2 +1,409 @@
-# activity-list
+# EMD UK Restricted Activity List
 List of activities within scope of EMD UK
+
+This page contains a human readable form of the restricted scheme which can be accessed and should be referenced via the URL [`http://data.emduk.org/activity-list/activity-list.jsonld`](http://data.emduk.org/activity-list/activity-list.jsonld).
+
+## ConceptSchemeRestriction
+### beta:rootConcept
+- Group Exercise
+- Dance
+- Cheerleading
+- Tai Chi
+- Self Defence
+- Lishi
+- Kickboxing
+- Nordic Walking
+
+### beta:flattenConcept
+- Group Exercise
+- Dance
+
+
+## Concepts
+- Cheerleading
+  - Cheer Dance
+  - Street Cheer
+- Dance
+- Aerial
+  - Aerial Discipline
+  - Aerial Hoop
+- African Dance
+- Azonto
+- Bachata
+- Ballet
+- Ballroom And Latin
+  - American Smooth
+  - Argentine Tango
+  - Ceroc
+  - Charleston
+  - Foxtrot
+  - Latin
+    - Cha-Cha-Cha
+    - Jive
+    - Pasa Doble
+    - Rumba
+    - Samba
+  - Lindy Hop
+  - Merengue
+  - Polka
+  - Quick Step
+  - Swing
+  - Swing Train
+  - Tango
+  - Viennese Waltz
+  - Waltz
+- Belly Dance
+- Bhangra
+- Bollywood
+  - Bollywood Bhangra
+- Burlesque
+  - Burlesque Chair Dance
+- Capoeira
+- Chakra Dance
+- Chinese Movement &amp;amp; Dance
+  - Chi Kung
+- Carnival
+- Contemporary
+- Country And Western
+  - Line Dancing
+- Diddi Dance
+- Disco
+- Flamenco
+- Folk Dance
+  - Morris Dancing
+- Funk
+- Greek Dancing
+- Horton Technique
+- Irish Dancing
+- Jazz
+- Jumpstyle
+- Kathak
+- Lyrical
+- Majorettes
+- Mambo
+- Modern
+- Multi Dance
+- Para Dance
+  - Combi Dance Sport
+  - Wheelchair Ballroom Dancing
+  - Wheelchair Dance Sport
+- Pole Dancing
+- Rock and Roll
+- Salsa
+  - Pachanga
+- Scottish Dance
+- Sequence Dancing
+- Square Dancing
+- Street Dance
+  - Street Cheer
+  - Be-Bop
+  - Break Dance
+  - Commercial
+  - Dancehall
+  - Freestyle
+  - Hip Hop
+  - House
+  - Krump
+  - Locking
+  - Melbourne Shuffle
+  - Popping
+  - Urban
+  - Voguing
+  - Waacking
+- Tap
+- Group Exercise
+- Dance Fitness
+  - Azonto Fitness
+    - AzontoBeats
+  - Ballet Fitness
+    - Ballestics
+  - Ballroom and Latin Fitness
+    - Chasamba®
+    - Fitsteps®
+  - Barre
+    - Barrecore
+    - Barreconcept
+    - Booty Barre
+    - Beam Fit
+    - Piloxing Barre
+  - Bellydance Fitness
+    - Belrobics
+  - Bhangra Fitness
+    - Bhangracise
+  - Bokwa
+  - Bollywood Fitness
+    - Just Jhoom!
+  - Burlesque Dance Fitness
+    - Burlexercise
+  - Cheer Fitness
+    - Cheerobics®
+  - Chinese Movement &amp;amp; Dance Fitness
+    - Chiball
+  - Country And Western Fitness
+    - Country Heat
+  - Dance Aerobics
+    - Body Jam™
+    - Booiaka®
+    - CIZE
+    - Dance Moves
+    - Dancercise
+    - DDmix
+    - Divacise
+    - drumnbounce
+    - Funky HAU2
+    - Groove Fx
+    - Moves FItness
+    - Piloxing
+    - Shbam™
+    - Strutology
+    - Synergy®
+  - FLexercise
+  - Fierce
+  - Flowetic®
+  - Hoop Dance
+    - Globe Fit
+    - Globe Fit Hoola
+    - Hooptone
+    - Hot Hula Fitness
+    - Hula Fitness
+    - Hulacise
+    - Hulafit
+    - Powerhoop
+  - Jazz Fitness
+    - Jazzercise
+  - KFA
+    - Kfa Body Moves
+    - Kfa Creative Moves
+    - Kfa Fit Moves
+    - Kfa Mature Moves
+    - Kfa Moves
+    - KFA Seated/Chair
+    - Kfa Youth Moves
+  - Konga®
+  - Medau
+  - Nia
+    - Classic Nia
+  - Party Fitness
+    - Club Cardio
+    - Clubbercise
+    - Clubbercise Kids
+    - KpopX
+    - Popdance Active &amp;amp; Able
+    - Popdance Adults
+    - Popdance Fit
+    - Popdance Kids
+    - Popdance Teens
+    - Popdance Tots
+    - Rave Fitness
+    - Ravercise
+  - Pole Fitness
+  - Salsa Fitness
+    - Sosa™
+    - Salsa Aerobics
+    - Cubatone
+  - Scottish Dance Fitness
+    - Kelta Fit
+    - Highland Hustle
+  - Street Dance Fitness
+    - Bounce Dancefit
+    - Fit-Beatz
+    - Freez
+    - Mash It Up
+    - Mini-Beatz
+    - Street Fit
+    - Street Step
+    - Tyga®
+    - Voga
+  - Tap Fitness
+  - Veraflow
+  - Yoga Rave
+  - Zumba®
+    - Zumba Glow
+    - Zumba® Gold
+    - Zumba® Kids
+    - Zumba® Kids Jr.
+    - Zumba Sentao™
+    - Zumba® Step
+    - Zumba Strong®
+    - Zumba® Toning
+    - Zumbini®
+- Multi Fitness
+  - Zumba Strong®
+  - 20-20-20
+  - Block Fit
+  - Body Conditioning
+    - BODY VIVE®
+    - Deep HAU2
+    - Jagua®
+    - Legs Bums And Tums
+  - Bootcamp
+    - Barrys Bootcamp
+    - British Military Fitness
+  - Circuit Training
+  - Cross Training
+  - HIIT
+    - Body Attack
+    - Burn
+    - Cross Fit
+    - Insanity
+    - Les Mills Grit™
+    - Metafit
+    - MetaPWR
+    - Methodology X
+    - PWR-Beatz
+    - Sh1ft
+    - Tabata
+    - Vypa®
+  - Hour of Power
+  - Interval Training
+    - Armageddon Fitness
+  - Personal Training
+  - Rabble
+- Body Conditioning
+  - BODY VIVE®
+  - Deep HAU2
+  - Jagua®
+  - Legs Bums And Tums
+- Water-Based Classes
+  - Aqua Aerobics
+    - Aqua Fit
+    - Aqua Fit (Shallow Water)
+    - Aqua Fit (Deep Water)
+    - Aqua Zumba®
+    - Aquacise
+    - Waterworks
+  - Hydro Therapy
+  - Aqua Jogging
+  - Hydro Spin
+- Abs/Core
+  - Beam Fit
+  - Bosu®
+  - CORE DE FORCE
+  - Core Stability
+  - Cx Worx™
+- Aerobics
+  - Blast Fx
+  - Bodyattack™
+- Animal Flow®
+- Born To Move
+- Boxing Fitness
+  - Piloxing
+  - Bag-Fit
+  - Boxercise
+  - Boxfit
+  - Turbo KICK
+  - Punch And Strike
+  - Piloxing Knockout
+- Buggy Fitness
+  - Buggy Boot Camp
+  - Buggy Bounce
+- Callanetics
+- Chair Based Exercise
+  - Burlesque Chair Dance
+  - KFA Seated/Chair
+  - Extend
+  - Fabs
+  - Sit N B Fit
+- Extend
+- Fabs
+- Exercise Ball
+  - Fitball
+  - Stability Ball
+  - Swiss Ball
+- Flexibar
+- Flexibility/Stretching
+  - Bodybalance™
+  - Flexaware
+  - Jukari Fit To Flex
+  - Stretch And Tone
+  - Stretch Class
+- Functional Fitness
+  - Body Attack
+  - Blast Fx
+  - Deep HAU2
+  - FREESTYLER
+- Fuse Fit
+- Indoor Cycling
+  - Rpm™
+  - Spinning
+  - Sprint®
+- Indoor Rowing
+- Jump Fx
+- Kangoo Jumps™
+- Kettlebells
+  - Kettlercise
+- Martial Arts Fitness
+  - Body Combat™
+  - Fight Fx
+- Medicine Ball
+- Meditation
+- New Body
+- Otago
+- Pilates
+  - Piloxing
+  - Bodybalance™
+  - Nova
+  - Piyo®
+- Pound™
+- Power Plate
+- Skipping
+  - SkipFit
+  - Skiptrix®
+- Step Aerobics
+  - Zumba® Step
+  - Bodystep™
+- Suspension
+  - Trx®
+- Trampoline Fitness
+  - Air Fit
+  - Boogie Bounce
+  - Bounce
+  - Jiggy Jump
+  - Rebound
+  - World Jumping®
+- TRE
+- Trigger Point
+- Weight Training
+  - Powerhoop
+  - Trx®
+  - Bodypump™
+  - P90X
+  - Powerbags
+  - PowerWave™
+  - Pump Fx
+  - Vipr
+- Yoga
+  - Voguing
+  - Voga
+  - Yoga Rave
+  - Bodybalance™
+  - Nova
+  - Piyo®
+  - Ashtanga Yoga
+  - Baby Yoga
+  - Bikram Yoga
+  - Broga
+  - Broga
+  - Dharma Yoga
+  - Fitness Yoga
+  - Forrest Yoga
+  - Hatha Yoga
+  - Hot Yoga
+  - Iyengar Yoga
+  - Jivamukti Yoga
+  - Kundalini Yoga
+  - Mysore Style Ashtanga Yoga
+  - Qigong
+  - Restorative Yoga
+  - Scaravelli Inspired Yoga
+  - Vinyasa Yoga
+  - Warm Yoga
+  - Yin Yoga
+  - Yoga Nidra
+  - Yogalates™
+- Kickboxing
+- Lishi
+- Self Defence
+- Tai Chi
+- Nordic Walking
+  
