@@ -1,7 +1,7 @@
 # EMD UK Restricted Activity List
 List of activities within scope of EMD UK
 
-This page contains a human readable form of the restricted scheme which can be accessed and should be referenced via the URL [`http://data.emduk.org/activity-list/activity-list.jsonld`](http://data.emduk.org/activity-list/activity-list.jsonld).
+This page contains a human readable form of the restricted [OpenActive](https://www.openactive.io) activity list scheme which can be accessed and should be referenced via the URL [`http://data.emduk.org/activity-list/activity-list.jsonld`](http://data.emduk.org/activity-list/activity-list.jsonld).
 
 ## ConceptSchemeRestriction
 ### beta:rootConcept
@@ -17,7 +17,6 @@ This page contains a human readable form of the restricted scheme which can be a
 ### beta:flattenConcept
 - Group Exercise
 - Dance
-
 
 ## Concepts
 - Cheerleading
