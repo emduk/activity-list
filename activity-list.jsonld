@@ -1,5 +1,5 @@
 {
-  "@context": "https://openactive.io/",
+  "context": "https://openactive.io/",
   "type": "ConceptScheme",
   "id": "https://data.emduk.org/activity-list/activity-list.jsonld",
   "title": "EMD UK Restricted Activity List",
@@ -32,7 +32,7 @@
         "https://openactive.io/activity-list#2c61b0e1-80c1-488b-9255-836d2bf4188e"
       ],
       "definition": "Competitive cheerleading involves squads of cheerleaders competing against each other by performing routines to music that include stunts, jumps and tumbles.",
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#9e44e734-eb79-4522-a32a-e295a99b74aa",
@@ -62,15 +62,14 @@
         "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764"
       ],
       "definition": "Dance is an art form that generally refers to movement of the body, usually rhythmic and to music, used as a form of expression, social interaction or presented in a spiritual or performance setting.",
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#d768ed4a-6235-41d6-8dea-58466b31d913",
       "type": "Concept",
       "notation": "aerial",
       "prefLabel": "Aerial",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#b0eb3e2b-8297-4d86-96f2-e07b725b2fe4",
@@ -96,8 +95,7 @@
       "type": "Concept",
       "notation": "african_dance",
       "prefLabel": "African Dance",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#ed8ad685-cd60-41d1-acd9-68a11f0f3c7b",
@@ -107,16 +105,14 @@
       "related": [
         "https://openactive.io/activity-list#20532927-bb47-4bdf-b341-4966336baf11"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#dd7732b4-cc31-4d75-8562-f973f280f518",
       "type": "Concept",
       "notation": "bachata",
       "prefLabel": "Bachata",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#1ae7395a-27a7-4e33-9f6d-a1a6c17d0757",
@@ -127,8 +123,7 @@
         "https://openactive.io/activity-list#c44e1f63-8925-4ec6-97a5-6719d751c69a"
       ],
       "definition": "Ballet is a classical dance form characterized by grace and precision of movement and by elaborate formal gestures, steps, and poses.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469",
@@ -139,8 +134,7 @@
         "https://openactive.io/activity-list#4b3f737f-7266-487f-b89b-bb5ba189162e"
       ],
       "definition": "Ballroom dancing is a couples dance where couples move to the music using step-patterns and rhythms that match the character of a given song.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#51e011a6-7e06-45c5-8ad9-ceaccc9ad1e4",
@@ -332,8 +326,7 @@
         "https://openactive.io/activity-list#433cd2b6-d661-409a-a6c5-76f0a34bbb4c"
       ],
       "definition": "Belly dancing is originally a solo, improvised dance involving torso articulation.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#a9c4bd7d-a31c-4dee-bfe6-ca823b2e5bff",
@@ -343,8 +336,7 @@
       "related": [
         "https://openactive.io/activity-list#bd8e72f6-f342-4884-8063-d2f996bad56c"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#0969ddf0-16fa-4ea1-a4f8-d2aeefb46900",
@@ -354,8 +346,7 @@
       "related": [
         "https://openactive.io/activity-list#23b8ffe3-4b6e-49d0-805f-a9f09d37b196"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#584c51fa-2485-4c01-b9c1-791a9c4d7c06",
@@ -374,8 +365,7 @@
       "related": [
         "https://openactive.io/activity-list#38bfaac1-8fdf-4b5d-b076-d53d681738ab"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#89270ae0-9e0e-47af-97fa-8975d706701d",
@@ -393,18 +383,14 @@
       "notation": "capoeira",
       "prefLabel": "Capoeira",
       "definition": "Capoeira is a Brazilian martial art that combines elements of dance, acrobatics and music.",
-      "broaderTransitive": [
-        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
-      ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#b38f9ea7-87db-40fc-b86f-eb1a8e71dc7c",
       "type": "Concept",
       "notation": "chakra_dance",
       "prefLabel": "Chakra Dance",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#51555787-12cd-4b09-b1c7-e03415c47a4c",
@@ -414,8 +400,7 @@
       "related": [
         "https://openactive.io/activity-list#75cbc726-05a8-417c-8329-127d6ceeea9f"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#bb2598e9-9b4f-49e1-8463-c6e1312b36b4",
@@ -431,16 +416,14 @@
       "type": "Concept",
       "notation": "carnival",
       "prefLabel": "Carnival",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#19254731-5f47-4ec4-a137-6993a1af9c33",
       "type": "Concept",
       "notation": "contemporary",
       "prefLabel": "Contemporary",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#1375887d-41f3-442d-a9b0-847512d060a1",
@@ -450,8 +433,7 @@
       "related": [
         "https://openactive.io/activity-list#cfe3dda0-976e-45cb-a92a-f18a4b06af4d"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#2998a4ad-e206-4cf8-9f9d-8a36faa0bc88",
@@ -467,16 +449,14 @@
       "type": "Concept",
       "notation": "diddi_dance",
       "prefLabel": "Diddi Dance",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#f12daba1-d1e4-49a5-831c-89d83c0cb1f4",
       "type": "Concept",
       "notation": "disco",
       "prefLabel": "Disco",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#07ba80dd-a7b6-4d4d-96e6-48aef4643a9a",
@@ -484,16 +464,14 @@
       "notation": "flamenco",
       "prefLabel": "Flamenco",
       "definition": "Flamenco dance is a Spanish dance form characterised by hand clapping, percussive footwork, and intricate hand, arm and body movements.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#34cabe03-72b3-4539-ac52-e69a52393330",
       "type": "Concept",
       "notation": "folk_dance",
       "prefLabel": "Folk Dance",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#7c23c208-a4da-42c5-a382-5bea008acd75",
@@ -509,32 +487,28 @@
       "type": "Concept",
       "notation": "funk",
       "prefLabel": "Funk",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#e158efb1-d57d-40f7-8b1e-9320bcc0868a",
       "type": "Concept",
       "notation": "greek_dancing",
       "prefLabel": "Greek Dancing",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#52c0e52d-ac08-45f4-9327-18b6863a961c",
       "type": "Concept",
       "notation": "horton_technique",
       "prefLabel": "Horton Technique",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#0b254ccb-26bb-457c-ae68-ad6cb40b17ea",
       "type": "Concept",
       "notation": "irish_dancing",
       "prefLabel": "Irish Dancing",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#d3bdf357-14dc-4da1-af67-9c057eb2bd7a",
@@ -544,72 +518,63 @@
       "related": [
         "https://openactive.io/activity-list#6851b00d-d573-4f0b-bfd9-e785c35c3c0c"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#bfab0fb7-85c3-4440-9e34-d4045b832aad",
       "type": "Concept",
       "notation": "jumpstyle",
       "prefLabel": "Jumpstyle",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#4440651f-a659-45ac-a28e-d68d3bae438f",
       "type": "Concept",
       "notation": "kathak",
       "prefLabel": "Kathak",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#75bab9e3-a229-4125-a62f-552a4304b357",
       "type": "Concept",
       "notation": "lyrical",
       "prefLabel": "Lyrical",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#8a8354d9-8055-4830-ac4c-0997ca86dd51",
       "type": "Concept",
       "notation": "majorettes",
       "prefLabel": "Majorettes",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#b1b89ce8-9330-4bbb-b11d-104fc20014f9",
       "type": "Concept",
       "notation": "mambo",
       "prefLabel": "Mambo",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#481b8c41-ee0b-4665-8e15-c970c1f55ec8",
       "type": "Concept",
       "notation": "modern",
       "prefLabel": "Modern",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#991c8551-b3ed-4e96-8732-1bd0d05c1257",
       "type": "Concept",
       "notation": "multi_dance",
       "prefLabel": "Multi Dance",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#b11ad9ab-e737-4342-9033-7ca4398d4a3a",
       "type": "Concept",
       "notation": "para_dance",
       "prefLabel": "Para Dance",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#05fe1f0c-71aa-4ae3-91db-e0edd9a34b06",
@@ -647,16 +612,14 @@
       "related": [
         "https://openactive.io/activity-list#2cc156d8-0bee-4e38-bd84-89f41da6f9da"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#46430d83-7f1a-4970-9788-860687b39df2",
       "type": "Concept",
       "notation": "rock_and_roll",
       "prefLabel": "Rock and Roll",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#a454c7e6-52da-426d-9bd1-743e9d7d266d",
@@ -667,8 +630,7 @@
         "https://openactive.io/activity-list#5cdf5ead-e19d-4619-9585-cfe509c3fe52"
       ],
       "definition": "Latin American style of dance with Cuban origins.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#b3829f3e-a63e-455f-a51c-1f50ecf85ad5",
@@ -687,24 +649,21 @@
       "related": [
         "https://openactive.io/activity-list#edc8fd32-92ba-4014-9c81-7afc618bfaba"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#1ab24764-c02e-4a0e-a96e-7c25894b39c8",
       "type": "Concept",
       "notation": "sequence_dancing",
       "prefLabel": "Sequence Dancing",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#f5cad176-efcd-495a-b249-03c9027ab368",
       "type": "Concept",
       "notation": "square_dancing",
       "prefLabel": "Square Dancing",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2",
@@ -714,8 +673,7 @@
       "related": [
         "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#6111dd77-6ee6-41cc-87f7-d21aa7406b33",
@@ -853,15 +811,14 @@
         "https://openactive.io/activity-list#51e77d9b-beda-4f48-b55d-d4abe936c785"
       ],
       "definition": "Tap dancing is a form of dance characterised by the sounds of tap shoes striking the floor as a form of percussion.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c",
       "type": "Concept",
       "notation": "group_exercise",
       "prefLabel": "Group Exercise",
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#d3b5104a-2e31-4cca-a278-ef8e0987a764",
@@ -871,8 +828,7 @@
       "related": [
         "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
       ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#20532927-bb47-4bdf-b341-4966336baf11",
@@ -1972,8 +1928,7 @@
       "type": "Concept",
       "notation": "multi_fitness",
       "prefLabel": "Multi Fitness",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#a71d477f-7263-43d7-8d17-3d69bda8991b",
@@ -2001,7 +1956,7 @@
       "broaderTransitive": [
         "https://openactive.io/activity-list#261395e5-9e11-4348-8bef-e0fafef0e765"
       ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#bc11138d-741a-4eff-aca0-a72f579ec037",
@@ -2228,8 +2183,7 @@
       "type": "Concept",
       "notation": "waterbased_classes",
       "prefLabel": "Water-Based Classes",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#6e31262b-ce37-4fc7-b3e3-d827ac5e8b42",
@@ -2331,8 +2285,7 @@
       "type": "Concept",
       "notation": "abscore",
       "prefLabel": "Abs/Core",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#ead300ad-a399-4768-b7ad-59e09fbe29fc",
@@ -2376,8 +2329,7 @@
       "notation": "aerobics",
       "prefLabel": "Aerobics",
       "definition": "Aerobics is a form of physical exercise that combines rhythmic aerobic exercise with stretching and strength training routines with the goal of improving all elements of fitness (flexibility, muscular strength, and cardiovascular fitness).",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#fee226da-a928-44ec-a194-f1d328e2a9df",
@@ -2404,8 +2356,7 @@
       "type": "Concept",
       "notation": "animal_flow",
       "prefLabel": "Animal Flow®",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#54a58cf7-fcc4-43e9-843c-f9b120d03cfc",
@@ -2441,19 +2392,14 @@
       "type": "Concept",
       "notation": "born_to_move",
       "prefLabel": "Born To Move",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#1eb737b6-9962-469d-98cc-0a2e4e86d356",
       "type": "Concept",
       "notation": "boxing_fitness",
       "prefLabel": "Boxing Fitness",
-      "related": [
-        "https://openactive.io/activity-list#d4417bb3-383f-489b-b0c7-731b82f3b220"
-      ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#279d3250-6f78-482b-85aa-99e83c6a2cd0",
@@ -2516,8 +2462,7 @@
       "type": "Concept",
       "notation": "buggy_fitness",
       "prefLabel": "Buggy Fitness",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#35283629-1fd1-4693-9cd4-d0335549cad9",
@@ -2543,8 +2488,7 @@
       "type": "Concept",
       "notation": "callanetics",
       "prefLabel": "Callanetics",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#ee3cf3ee-082e-4f53-9cb2-3ef0589497ed",
@@ -2552,8 +2496,7 @@
       "notation": "chair_based_exercise",
       "prefLabel": "Chair Based Exercise",
       "definition": "Chair based exercise classes are designed to help improve strength and balance, from the comfort of a chair.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#ea5f74c7-6d69-44c5-8bdc-42e46488f4e0",
@@ -2563,7 +2506,7 @@
       "broaderTransitive": [
         "https://openactive.io/activity-list#ee3cf3ee-082e-4f53-9cb2-3ef0589497ed"
       ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#e6d04eaa-a1b9-4e5f-97a3-445783f51bae",
@@ -2573,7 +2516,7 @@
       "broaderTransitive": [
         "https://openactive.io/activity-list#ee3cf3ee-082e-4f53-9cb2-3ef0589497ed"
       ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#1dae5189-7677-4921-9ad2-e04b23faff57",
@@ -2589,8 +2532,7 @@
       "type": "Concept",
       "notation": "exercise_ball",
       "prefLabel": "Exercise Ball",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#e30df90a-fd99-4545-b5fe-2f8a34a01eae",
@@ -2624,16 +2566,14 @@
       "type": "Concept",
       "notation": "flexibar",
       "prefLabel": "Flexibar",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#56be8d24-0c9b-438c-8679-192e5714daf9",
       "type": "Concept",
       "notation": "flexibilitystretching",
       "prefLabel": "Flexibility/Stretching",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#b6402e8e-e405-4b97-8c76-4868324bc907",
@@ -2688,8 +2628,7 @@
       "type": "Concept",
       "notation": "functional_fitness",
       "prefLabel": "Functional Fitness",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#220a4b93-50dc-404f-802b-ae6b953c07b0",
@@ -2705,8 +2644,7 @@
       "type": "Concept",
       "notation": "fuse_fit",
       "prefLabel": "Fuse Fit",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#5f09c2ca-ceeb-4e0c-871f-e2d0b9971317",
@@ -2717,8 +2655,7 @@
         "Group Cycling"
       ],
       "definition": "Indoor Cycling can takes place on indoors on a stationary bike.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#2c2b9be5-9491-4958-bee8-70ced347d384",
@@ -2753,24 +2690,21 @@
       "type": "Concept",
       "notation": "indoor_rowing",
       "prefLabel": "Indoor Rowing",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#a426499e-fc97-4a56-81ab-09f581ef0a91",
       "type": "Concept",
       "notation": "jump_fx",
       "prefLabel": "Jump Fx",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#74a424c2-94d7-4e2b-a262-c6b492216704",
       "type": "Concept",
       "notation": "kangoo_jumps",
       "prefLabel": "Kangoo Jumps™",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#fa2d7665-bb7f-4596-a157-e08c975d6073",
@@ -2778,8 +2712,7 @@
       "notation": "kettlebells",
       "prefLabel": "Kettlebells",
       "definition": "Kettlebell classes use a cast iron weight with a handle to perform exercises to core muscle groups to develops dynamic strength.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#039d64f4-3d6a-4f11-aaa7-79d887be423f",
@@ -2795,11 +2728,7 @@
       "type": "Concept",
       "notation": "martial_arts_fitness",
       "prefLabel": "Martial Arts Fitness",
-      "related": [
-        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
-      ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#c3bc55ef-1250-4542-9041-617e3764c7d7",
@@ -2826,32 +2755,28 @@
       "notation": "medicine_ball",
       "prefLabel": "Medicine Ball",
       "definition": "A class using a Swiss ball to work on core strengthening, including the abdominal muscles which help to improve your balance.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#0c2a1e6b-4b02-4b8a-ae6d-59f225ff5341",
       "type": "Concept",
       "notation": "meditation",
       "prefLabel": "Meditation",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#9518746d-17e6-4ec4-9559-73c8d0fcb266",
       "type": "Concept",
       "notation": "new_body",
       "prefLabel": "New Body",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#72871f24-fdcd-4a88-9400-9cb08b911e70",
       "type": "Concept",
       "notation": "otago",
       "prefLabel": "Otago",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#3a6b1c08-7aa6-48d4-9690-dca9e0133057",
@@ -2859,8 +2784,7 @@
       "notation": "pilates",
       "prefLabel": "Pilates",
       "definition": "Pilates improves flexibility, builds strength and develops control and endurance in the body.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#72ab185f-cd57-44da-a310-753fd2646d40",
@@ -2887,24 +2811,21 @@
       "type": "Concept",
       "notation": "pound",
       "prefLabel": "Pound™",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#fb4c0f65-7b9b-438b-b215-65013d2edb7c",
       "type": "Concept",
       "notation": "power_plate",
       "prefLabel": "Power Plate",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#1bdf3fac-9d6b-401b-a773-87a9a1c86ed1",
       "type": "Concept",
       "notation": "skipping",
       "prefLabel": "Skipping",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#673a6aeb-0838-4d80-8814-365487317d53",
@@ -2931,8 +2852,7 @@
       "notation": "step_aerobics",
       "prefLabel": "Step Aerobics",
       "definition": "Step involves performing aerobics on an elevated platform (the step).",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#eda910f1-0de6-4038-b954-43b691f7d954",
@@ -2949,8 +2869,7 @@
       "type": "Concept",
       "notation": "suspension",
       "prefLabel": "Suspension",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#c3d3f498-e7f0-4b80-be4e-ee11da9b5765",
@@ -2967,11 +2886,7 @@
       "type": "Concept",
       "notation": "trampoline_fitness",
       "prefLabel": "Trampoline Fitness",
-      "related": [
-        "https://openactive.io/activity-list#0082b27f-8be5-4ade-ae1f-5f0b2be9e164"
-      ],
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#a6b74795-3c06-4538-860f-06cc6170c896",
@@ -3033,24 +2948,21 @@
       "type": "Concept",
       "notation": "tre",
       "prefLabel": "TRE",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#97d38fa5-70bd-4c69-acc9-e08c885aab7b",
       "type": "Concept",
       "notation": "trigger_point",
       "prefLabel": "Trigger Point",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#25905e33-e0a3-466c-986e-aaed6bccdaef",
       "type": "Concept",
       "notation": "weight_training",
       "prefLabel": "Weight Training",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#5e78bcbe-36db-425a-9064-bf96d09cc351",
@@ -3113,8 +3025,7 @@
       "notation": "yoga",
       "prefLabel": "Yoga",
       "definition": "Yoga is an ancient form of exercise that focuses on strength, flexibility and breathing to boost physical and mental wellbeing.",
-      "broaderTransitive": [],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#1a8e23f3-5e12-411f-99fc-a4fe98010f7d",
@@ -3150,7 +3061,6 @@
       "notation": "broga",
       "prefLabel": "Broga",
       "broaderTransitive": [
-        "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e",
         "https://openactive.io/activity-list#bf1a5e00-cdcf-465d-8c5a-6f57040b7f7e"
       ]
     },
@@ -3315,30 +3225,21 @@
       "notation": "kickboxing",
       "prefLabel": "Kickboxing",
       "definition": "Kickboxing is a martial art that predominately involves kicking.",
-      "broaderTransitive": [
-        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
-      ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#11b06df1-ccf5-4176-b1be-b4c39c5377c7",
       "type": "Concept",
       "notation": "lishi",
       "prefLabel": "Lishi",
-      "broaderTransitive": [
-        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
-      ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#1b88144e-91cf-4642-8e6a-8e4524f7c56f",
       "type": "Concept",
       "notation": "self_defence",
       "prefLabel": "Self Defence",
-      "broaderTransitive": [
-        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
-      ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#c16df6ed-a4a0-4275-a8c3-1c8cff56856f",
@@ -3346,20 +3247,14 @@
       "notation": "tai_chi",
       "prefLabel": "Tai Chi",
       "definition": "Tai chi combines deep breathing and relaxation with slow and gentle movements.",
-      "broaderTransitive": [
-        "https://openactive.io/activity-list#2330f2d4-d0dc-4231-8dd9-07d37a452228"
-      ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     },
     {
       "id": "https://openactive.io/activity-list#c72e1713-25c1-4886-926a-4cd549bb4916",
       "type": "Concept",
       "notation": "nordic_walking",
       "prefLabel": "Nordic Walking",
-      "broaderTransitive": [
-        "https://openactive.io/activity-list#95092977-5a20-4d6e-b312-8fddabe71544"
-      ],
-      "topConceptOf": "http://data.emduk.org/activity-list/activity-list.jsonld"
+      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
     }
   ]
 }
