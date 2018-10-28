@@ -1,5 +1,8 @@
 {
-  "@context": "https://openactive.io/",
+  "@context": [
+    "https://openactive.io/",
+    "https://openactive.io/ns-beta"
+  ],
   "type": "ConceptScheme",
   "id": "https://data.emduk.org/activity-list/activity-list.jsonld",
   "title": "EMD UK Restricted Activity List",
