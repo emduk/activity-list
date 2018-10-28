@@ -405,4 +405,3 @@ This page contains a human readable form of the restricted [OpenActive](https://
   - Yoga Nidra
   - Yoga Rave
   - Yogalates™
-  
