@@ -18,15 +18,22 @@ This page contains a human readable form of the restricted [OpenActive](https://
 - Group Exercise
 - Dance
 
+
 ## Concepts
-- Cheerleading
-  - Cheer Dance
-  - Street Cheer
-- Dance
+- Abs/Core
+  - Beam Fit
+  - Bosu®
+  - CORE DE FORCE
+  - Core Stability
+  - Cx Worx™
 - Aerial
   - Aerial Discipline
   - Aerial Hoop
+- Aerobics
+  - Blast Fx
+  - Bodyattack™
 - African Dance
+- Animal Flow®
 - Azonto
 - Bachata
 - Ballet
@@ -53,64 +60,46 @@ This page contains a human readable form of the restricted [OpenActive](https://
   - Waltz
 - Belly Dance
 - Bhangra
+- Body Conditioning
+  - BODY VIVE®
+  - Deep HAU2
+  - Jagua®
+  - Legs Bums And Tums
 - Bollywood
   - Bollywood Bhangra
+- Born To Move
+- Boxing Fitness
+  - Bag-Fit
+  - Boxercise
+  - Boxfit
+  - Piloxing
+  - Piloxing Knockout
+  - Punch And Strike
+  - Turbo KICK
+- Buggy Fitness
+  - Buggy Boot Camp
+  - Buggy Bounce
 - Burlesque
   - Burlesque Chair Dance
+- Callanetics
 - Capoeira
+- Carnival
+- Chair Based Exercise
+  - Burlesque Chair Dance
+  - Extend
+  - Fabs
+  - KFA Seated/Chair
+  - Sit N B Fit
 - Chakra Dance
+- Cheerleading
+  - Cheer Dance
+  - Street Cheer
 - Chinese Movement &amp;amp; Dance
   - Chi Kung
-- Carnival
 - Contemporary
 - Country And Western
   - Line Dancing
-- Diddi Dance
-- Disco
-- Flamenco
-- Folk Dance
-  - Morris Dancing
-- Funk
-- Greek Dancing
-- Horton Technique
-- Irish Dancing
-- Jazz
-- Jumpstyle
-- Kathak
-- Lyrical
-- Majorettes
-- Mambo
-- Modern
-- Multi Dance
-- Para Dance
-  - Combi Dance Sport
-  - Wheelchair Ballroom Dancing
-  - Wheelchair Dance Sport
-- Pole Dancing
-- Rock and Roll
-- Salsa
-  - Pachanga
-- Scottish Dance
-- Sequence Dancing
-- Square Dancing
-- Street Dance
-  - Street Cheer
-  - Be-Bop
-  - Break Dance
-  - Commercial
-  - Dancehall
-  - Freestyle
-  - Hip Hop
-  - House
-  - Krump
-  - Locking
-  - Melbourne Shuffle
-  - Popping
-  - Urban
-  - Voguing
-  - Waacking
-- Tap
-- Group Exercise
+- Dance
 - Dance Fitness
   - Azonto Fitness
     - AzontoBeats
@@ -120,10 +109,10 @@ This page contains a human readable form of the restricted [OpenActive](https://
     - Chasamba®
     - Fitsteps®
   - Barre
-    - Barrecore
     - Barreconcept
-    - Booty Barre
+    - Barrecore
     - Beam Fit
+    - Booty Barre
     - Piloxing Barre
   - Bellydance Fitness
     - Belrobics
@@ -144,11 +133,10 @@ This page contains a human readable form of the restricted [OpenActive](https://
     - Body Jam™
     - Booiaka®
     - CIZE
+    - DDmix
     - Dance Moves
     - Dancercise
-    - DDmix
     - Divacise
-    - drumnbounce
     - Funky HAU2
     - Groove Fx
     - Moves FItness
@@ -156,6 +144,7 @@ This page contains a human readable form of the restricted [OpenActive](https://
     - Shbam™
     - Strutology
     - Synergy®
+    - drumnbounce
   - FLexercise
   - Fierce
   - Flowetic®
@@ -171,12 +160,12 @@ This page contains a human readable form of the restricted [OpenActive](https://
   - Jazz Fitness
     - Jazzercise
   - KFA
+    - KFA Seated/Chair
     - Kfa Body Moves
     - Kfa Creative Moves
     - Kfa Fit Moves
     - Kfa Mature Moves
     - Kfa Moves
-    - KFA Seated/Chair
     - Kfa Youth Moves
   - Konga®
   - Medau
@@ -197,12 +186,12 @@ This page contains a human readable form of the restricted [OpenActive](https://
     - Ravercise
   - Pole Fitness
   - Salsa Fitness
-    - Sosa™
-    - Salsa Aerobics
     - Cubatone
+    - Salsa Aerobics
+    - Sosa™
   - Scottish Dance Fitness
-    - Kelta Fit
     - Highland Hustle
+    - Kelta Fit
   - Street Dance Fitness
     - Bounce Dancefit
     - Fit-Beatz
@@ -218,16 +207,68 @@ This page contains a human readable form of the restricted [OpenActive](https://
   - Yoga Rave
   - Zumba®
     - Zumba Glow
+    - Zumba Sentao™
+    - Zumba Strong®
     - Zumba® Gold
     - Zumba® Kids
     - Zumba® Kids Jr.
-    - Zumba Sentao™
     - Zumba® Step
-    - Zumba Strong®
     - Zumba® Toning
     - Zumbini®
+- Diddi Dance
+- Disco
+- Exercise Ball
+  - Fitball
+  - Stability Ball
+  - Swiss Ball
+- Extend
+- Fabs
+- Flamenco
+- Flexibar
+- Flexibility/Stretching
+  - Bodybalance™
+  - Flexaware
+  - Jukari Fit To Flex
+  - Stretch And Tone
+  - Stretch Class
+- Folk Dance
+  - Morris Dancing
+- Functional Fitness
+  - Blast Fx
+  - Body Attack
+  - Deep HAU2
+  - FREESTYLER
+- Funk
+- Fuse Fit
+- Greek Dancing
+- Group Exercise
+- Horton Technique
+- Indoor Cycling
+  - Rpm™
+  - Spinning
+  - Sprint®
+- Indoor Rowing
+- Irish Dancing
+- Jazz
+- Jump Fx
+- Jumpstyle
+- Kangoo Jumps™
+- Kathak
+- Kettlebells
+  - Kettlercise
+- Kickboxing
+- Lishi
+- Lyrical
+- Majorettes
+- Mambo
+- Martial Arts Fitness
+  - Body Combat™
+  - Fight Fx
+- Medicine Ball
+- Meditation
+- Modern
+- Multi Dance
 - Multi Fitness
-  - Zumba Strong®
   - 20-20-20
   - Block Fit
   - Body Conditioning
@@ -246,8 +287,8 @@ This page contains a human readable form of the restricted [OpenActive](https://
     - Cross Fit
     - Insanity
     - Les Mills Grit™
-    - Metafit
     - MetaPWR
+    - Metafit
     - Methodology X
     - PWR-Beatz
     - Sh1ft
@@ -258,101 +299,56 @@ This page contains a human readable form of the restricted [OpenActive](https://
     - Armageddon Fitness
   - Personal Training
   - Rabble
-- Body Conditioning
-  - BODY VIVE®
-  - Deep HAU2
-  - Jagua®
-  - Legs Bums And Tums
-- Water-Based Classes
-  - Aqua Aerobics
-    - Aqua Fit
-    - Aqua Fit (Shallow Water)
-    - Aqua Fit (Deep Water)
-    - Aqua Zumba®
-    - Aquacise
-    - Waterworks
-  - Hydro Therapy
-  - Aqua Jogging
-  - Hydro Spin
-- Abs/Core
-  - Beam Fit
-  - Bosu®
-  - CORE DE FORCE
-  - Core Stability
-  - Cx Worx™
-- Aerobics
-  - Blast Fx
-  - Bodyattack™
-- Animal Flow®
-- Born To Move
-- Boxing Fitness
-  - Piloxing
-  - Bag-Fit
-  - Boxercise
-  - Boxfit
-  - Turbo KICK
-  - Punch And Strike
-  - Piloxing Knockout
-- Buggy Fitness
-  - Buggy Boot Camp
-  - Buggy Bounce
-- Callanetics
-- Chair Based Exercise
-  - Burlesque Chair Dance
-  - KFA Seated/Chair
-  - Extend
-  - Fabs
-  - Sit N B Fit
-- Extend
-- Fabs
-- Exercise Ball
-  - Fitball
-  - Stability Ball
-  - Swiss Ball
-- Flexibar
-- Flexibility/Stretching
-  - Bodybalance™
-  - Flexaware
-  - Jukari Fit To Flex
-  - Stretch And Tone
-  - Stretch Class
-- Functional Fitness
-  - Body Attack
-  - Blast Fx
-  - Deep HAU2
-  - FREESTYLER
-- Fuse Fit
-- Indoor Cycling
-  - Rpm™
-  - Spinning
-  - Sprint®
-- Indoor Rowing
-- Jump Fx
-- Kangoo Jumps™
-- Kettlebells
-  - Kettlercise
-- Martial Arts Fitness
-  - Body Combat™
-  - Fight Fx
-- Medicine Ball
-- Meditation
+  - Zumba Strong®
 - New Body
+- Nordic Walking
 - Otago
+- Para Dance
+  - Combi Dance Sport
+  - Wheelchair Ballroom Dancing
+  - Wheelchair Dance Sport
 - Pilates
-  - Piloxing
   - Bodybalance™
   - Nova
+  - Piloxing
   - Piyo®
+- Pole Dancing
 - Pound™
 - Power Plate
+- Rock and Roll
+- Salsa
+  - Pachanga
+- Scottish Dance
+- Self Defence
+- Sequence Dancing
 - Skipping
   - SkipFit
   - Skiptrix®
+- Square Dancing
 - Step Aerobics
-  - Zumba® Step
   - Bodystep™
+  - Zumba® Step
+- Street Dance
+  - Be-Bop
+  - Break Dance
+  - Commercial
+  - Dancehall
+  - Freestyle
+  - Hip Hop
+  - House
+  - Krump
+  - Locking
+  - Melbourne Shuffle
+  - Popping
+  - Street Cheer
+  - Urban
+  - Voguing
+  - Waacking
 - Suspension
   - Trx®
+- TRE
+- Tai Chi
+- Tap
 - Trampoline Fitness
   - Air Fit
   - Boogie Bounce
@@ -360,28 +356,32 @@ This page contains a human readable form of the restricted [OpenActive](https://
   - Jiggy Jump
   - Rebound
   - World Jumping®
-- TRE
 - Trigger Point
+- Water-Based Classes
+  - Aqua Aerobics
+    - Aqua Fit
+    - Aqua Fit (Deep Water)
+    - Aqua Fit (Shallow Water)
+    - Aqua Zumba®
+    - Aquacise
+    - Waterworks
+  - Aqua Jogging
+  - Hydro Spin
+  - Hydro Therapy
 - Weight Training
-  - Powerhoop
-  - Trx®
   - Bodypump™
   - P90X
-  - Powerbags
   - PowerWave™
+  - Powerbags
+  - Powerhoop
   - Pump Fx
+  - Trx®
   - Vipr
 - Yoga
-  - Voguing
-  - Voga
-  - Yoga Rave
-  - Bodybalance™
-  - Nova
-  - Piyo®
   - Ashtanga Yoga
   - Baby Yoga
   - Bikram Yoga
-  - Broga
+  - Bodybalance™
   - Broga
   - Dharma Yoga
   - Fitness Yoga
@@ -392,17 +392,17 @@ This page contains a human readable form of the restricted [OpenActive](https://
   - Jivamukti Yoga
   - Kundalini Yoga
   - Mysore Style Ashtanga Yoga
+  - Nova
+  - Piyo®
   - Qigong
   - Restorative Yoga
   - Scaravelli Inspired Yoga
   - Vinyasa Yoga
+  - Voga
+  - Voguing
   - Warm Yoga
   - Yin Yoga
   - Yoga Nidra
+  - Yoga Rave
   - Yogalates™
-- Kickboxing
-- Lishi
-- Self Defence
-- Tai Chi
-- Nordic Walking
   
