@@ -21,8 +21,7 @@
       "https://openactive.io/activity-list#c72e1713-25c1-4886-926a-4cd549bb4916"
     ],
     "beta:flattenConcept": [
-      "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c",
-      "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
     ]
   },
   "concept": [
@@ -72,7 +71,9 @@
       "type": "Concept",
       "notation": "aerial",
       "prefLabel": "Aerial",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#b0eb3e2b-8297-4d86-96f2-e07b725b2fe4",
@@ -98,7 +99,9 @@
       "type": "Concept",
       "notation": "african_dance",
       "prefLabel": "African Dance",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#ed8ad685-cd60-41d1-acd9-68a11f0f3c7b",
@@ -108,14 +111,18 @@
       "related": [
         "https://openactive.io/activity-list#20532927-bb47-4bdf-b341-4966336baf11"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#dd7732b4-cc31-4d75-8562-f973f280f518",
       "type": "Concept",
       "notation": "bachata",
       "prefLabel": "Bachata",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#1ae7395a-27a7-4e33-9f6d-a1a6c17d0757",
@@ -126,7 +133,9 @@
         "https://openactive.io/activity-list#c44e1f63-8925-4ec6-97a5-6719d751c69a"
       ],
       "definition": "Ballet is a classical dance form characterized by grace and precision of movement and by elaborate formal gestures, steps, and poses.",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#40c3a315-1401-4c31-a5c1-994c59a98469",
@@ -137,7 +146,9 @@
         "https://openactive.io/activity-list#4b3f737f-7266-487f-b89b-bb5ba189162e"
       ],
       "definition": "Ballroom dancing is a couples dance where couples move to the music using step-patterns and rhythms that match the character of a given song.",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#51e011a6-7e06-45c5-8ad9-ceaccc9ad1e4",
@@ -329,7 +340,9 @@
         "https://openactive.io/activity-list#433cd2b6-d661-409a-a6c5-76f0a34bbb4c"
       ],
       "definition": "Belly dancing is originally a solo, improvised dance involving torso articulation.",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#a9c4bd7d-a31c-4dee-bfe6-ca823b2e5bff",
@@ -339,7 +352,9 @@
       "related": [
         "https://openactive.io/activity-list#bd8e72f6-f342-4884-8063-d2f996bad56c"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#0969ddf0-16fa-4ea1-a4f8-d2aeefb46900",
@@ -349,7 +364,9 @@
       "related": [
         "https://openactive.io/activity-list#23b8ffe3-4b6e-49d0-805f-a9f09d37b196"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#584c51fa-2485-4c01-b9c1-791a9c4d7c06",
@@ -368,7 +385,9 @@
       "related": [
         "https://openactive.io/activity-list#38bfaac1-8fdf-4b5d-b076-d53d681738ab"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#89270ae0-9e0e-47af-97fa-8975d706701d",
@@ -386,14 +405,18 @@
       "notation": "capoeira",
       "prefLabel": "Capoeira",
       "definition": "Capoeira is a Brazilian martial art that combines elements of dance, acrobatics and music.",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#b38f9ea7-87db-40fc-b86f-eb1a8e71dc7c",
       "type": "Concept",
       "notation": "chakra_dance",
       "prefLabel": "Chakra Dance",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#51555787-12cd-4b09-b1c7-e03415c47a4c",
@@ -403,7 +426,9 @@
       "related": [
         "https://openactive.io/activity-list#75cbc726-05a8-417c-8329-127d6ceeea9f"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#bb2598e9-9b4f-49e1-8463-c6e1312b36b4",
@@ -419,14 +444,18 @@
       "type": "Concept",
       "notation": "carnival",
       "prefLabel": "Carnival",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#19254731-5f47-4ec4-a137-6993a1af9c33",
       "type": "Concept",
       "notation": "contemporary",
       "prefLabel": "Contemporary",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#1375887d-41f3-442d-a9b0-847512d060a1",
@@ -436,7 +465,9 @@
       "related": [
         "https://openactive.io/activity-list#cfe3dda0-976e-45cb-a92a-f18a4b06af4d"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#2998a4ad-e206-4cf8-9f9d-8a36faa0bc88",
@@ -452,14 +483,18 @@
       "type": "Concept",
       "notation": "diddi_dance",
       "prefLabel": "Diddi Dance",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#f12daba1-d1e4-49a5-831c-89d83c0cb1f4",
       "type": "Concept",
       "notation": "disco",
       "prefLabel": "Disco",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#07ba80dd-a7b6-4d4d-96e6-48aef4643a9a",
@@ -467,14 +502,18 @@
       "notation": "flamenco",
       "prefLabel": "Flamenco",
       "definition": "Flamenco dance is a Spanish dance form characterised by hand clapping, percussive footwork, and intricate hand, arm and body movements.",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#34cabe03-72b3-4539-ac52-e69a52393330",
       "type": "Concept",
       "notation": "folk_dance",
       "prefLabel": "Folk Dance",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#7c23c208-a4da-42c5-a382-5bea008acd75",
@@ -490,28 +529,36 @@
       "type": "Concept",
       "notation": "funk",
       "prefLabel": "Funk",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#e158efb1-d57d-40f7-8b1e-9320bcc0868a",
       "type": "Concept",
       "notation": "greek_dancing",
       "prefLabel": "Greek Dancing",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#52c0e52d-ac08-45f4-9327-18b6863a961c",
       "type": "Concept",
       "notation": "horton_technique",
       "prefLabel": "Horton Technique",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#0b254ccb-26bb-457c-ae68-ad6cb40b17ea",
       "type": "Concept",
       "notation": "irish_dancing",
       "prefLabel": "Irish Dancing",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#d3bdf357-14dc-4da1-af67-9c057eb2bd7a",
@@ -521,63 +568,81 @@
       "related": [
         "https://openactive.io/activity-list#6851b00d-d573-4f0b-bfd9-e785c35c3c0c"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#bfab0fb7-85c3-4440-9e34-d4045b832aad",
       "type": "Concept",
       "notation": "jumpstyle",
       "prefLabel": "Jumpstyle",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#4440651f-a659-45ac-a28e-d68d3bae438f",
       "type": "Concept",
       "notation": "kathak",
       "prefLabel": "Kathak",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#75bab9e3-a229-4125-a62f-552a4304b357",
       "type": "Concept",
       "notation": "lyrical",
       "prefLabel": "Lyrical",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#8a8354d9-8055-4830-ac4c-0997ca86dd51",
       "type": "Concept",
       "notation": "majorettes",
       "prefLabel": "Majorettes",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#b1b89ce8-9330-4bbb-b11d-104fc20014f9",
       "type": "Concept",
       "notation": "mambo",
       "prefLabel": "Mambo",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#481b8c41-ee0b-4665-8e15-c970c1f55ec8",
       "type": "Concept",
       "notation": "modern",
       "prefLabel": "Modern",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#991c8551-b3ed-4e96-8732-1bd0d05c1257",
       "type": "Concept",
       "notation": "multi_dance",
       "prefLabel": "Multi Dance",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#b11ad9ab-e737-4342-9033-7ca4398d4a3a",
       "type": "Concept",
       "notation": "para_dance",
       "prefLabel": "Para Dance",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#05fe1f0c-71aa-4ae3-91db-e0edd9a34b06",
@@ -615,14 +680,18 @@
       "related": [
         "https://openactive.io/activity-list#2cc156d8-0bee-4e38-bd84-89f41da6f9da"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#46430d83-7f1a-4970-9788-860687b39df2",
       "type": "Concept",
       "notation": "rock_and_roll",
       "prefLabel": "Rock and Roll",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#a454c7e6-52da-426d-9bd1-743e9d7d266d",
@@ -633,7 +702,9 @@
         "https://openactive.io/activity-list#5cdf5ead-e19d-4619-9585-cfe509c3fe52"
       ],
       "definition": "Latin American style of dance with Cuban origins.",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#b3829f3e-a63e-455f-a51c-1f50ecf85ad5",
@@ -652,21 +723,27 @@
       "related": [
         "https://openactive.io/activity-list#edc8fd32-92ba-4014-9c81-7afc618bfaba"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#1ab24764-c02e-4a0e-a96e-7c25894b39c8",
       "type": "Concept",
       "notation": "sequence_dancing",
       "prefLabel": "Sequence Dancing",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#f5cad176-efcd-495a-b249-03c9027ab368",
       "type": "Concept",
       "notation": "square_dancing",
       "prefLabel": "Square Dancing",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#85ddf0e4-115d-4c0b-9bca-4c3b4b635bb2",
@@ -676,7 +753,9 @@
       "related": [
         "https://openactive.io/activity-list#8087a5b8-41ad-4537-8cb3-563d23f31a1f"
       ],
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#6111dd77-6ee6-41cc-87f7-d21aa7406b33",
@@ -814,7 +893,9 @@
         "https://openactive.io/activity-list#51e77d9b-beda-4f48-b55d-d4abe936c785"
       ],
       "definition": "Tap dancing is a form of dance characterised by the sounds of tap shoes striking the floor as a form of percussion.",
-      "topConceptOf": "https://data.emduk.org/activity-list/activity-list.jsonld"
+      "broaderTransitive": [
+        "https://openactive.io/activity-list#6ca15167-51da-4d91-a1ae-8a45dc47b0ea"
+      ]
     },
     {
       "id": "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c",
