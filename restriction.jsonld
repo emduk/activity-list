@@ -22,7 +22,7 @@
       "https://openactive.io/activity-list#984068a7-5b7b-4989-bb33-f96953d8960c"
     ],
     "publisher": {
-      "@type": "Organization",
+      "type": "Organization",
       "name": "EMD UK",
       "legalName": "EMD UK",
       "url": "https://www.emduk.org/"
